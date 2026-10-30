@@ -25,7 +25,7 @@ python run_tests.py
 jupyter lab Neutron_Transport_Monte_Carlo.ipynb
 ```
 
-In Jupyter choose **Kernel → Restart Kernel and Run All Cells**. Run from the repository root so that `data/` can be found. The full figure sweep can take substantially longer than the smoke tests. Outputs from the original submission were cleared after implementation corrections to avoid showing outdated figures. Figure 10 in particular **must be regenerated**; its original results were invalid due to incorrect starting positions.
+In Jupyter choose **Kernel → Restart Kernel and Run All Cells**. Run from the repository root so that `data/` can be found. The full figure sweep can take substantially longer than the smoke tests. 
 
 ### Reproducibility
 
